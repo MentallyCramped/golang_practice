@@ -1,0 +1,1 @@
+This playground contains various go modules that can be installed as binaries and executed. Their functionalities are largely non-existent as these were created as a part of my learning.
